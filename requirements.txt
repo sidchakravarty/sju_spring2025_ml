@@ -25,3 +25,4 @@ mlxtend>=0.19.0
 yellowbrick>=1.5
 shap>=0.41.0
 eli5>=0.13.0
+graphviz>=0.20.1

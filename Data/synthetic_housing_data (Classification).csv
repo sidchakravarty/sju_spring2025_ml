@@ -1,4 +1,4 @@
-income,credit_score,house_size,location,property_type,listing_date,realtor_rating,flood_risk,crime_rate,buy
+income,credit_score,house_size,location,property_type,listing_date,realtor_rating,flood_risk,crime_rate,purchase_decision
 79934.28306022465,426.0,2148,suburb,Multi-Family,18.4.2023,2.6744290996733198,Low,36.50423788448468,not buy
 67234.71397657631,313.0,2144,suburb,Townhouse,2019-03-14,2.833725696525752,High,45.847862320947286,buy
 82953.77076201385,311.0,1845,downtown,Townhouse,7/26/2019,3.900024305196475,High,50.34027411072232,not buy

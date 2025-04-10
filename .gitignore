@@ -1,2 +1,5 @@
 baseClassification.py
 tunedClassification.py
+animated_dbscan.py
+frame_*.png
+dbscan_animation.gif
